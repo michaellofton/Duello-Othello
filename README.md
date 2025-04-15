@@ -14,11 +14,11 @@
 
 ### Table
 | AI Name                   | Games | Win % | Record     | Tiles For   | Tiles Against | Record (B) | Tiles For (B) | Tiles Against (B)     | Record (W) | Tiles For (W) | Tiles Against (W) |
-| ------------------------- | ----- | ----- | ---------- | ------------- | ------------- | --------- | -------------- | --------------------- | ---------- | ------------- | ----------------- |
-| Duello Othello (Required) | 572   | 0.710 | 391-151-30 |     21585 | 14758         | 169-97-20  | 10347         |            7905    | 222-54-10  | 11238         | 6853              |
+| ------------------------- | ----- | ----- | ---------- | ----------- | ------------- | ---------- | ------------- | --------------------- | ---------- | ------------- | ------------------- |
+| Duello Othello (Required) | 572   | 0.710 | 391-151-30 | 21585       | 14758         | 169-97-20  | 10347         |  7905                 | 222-54-10  | 11238         | 6853                |
 
 ## Duelo Othello Results in Tournament:
-**Duello Othello was ranked 62 / 305 participants in this tournament: ![](tournament_results.pdf)**
+**Duello Othello was ranked 62 / 305 participants in [this tournament:](https://github.com/michaellofton/Duello-Othello/blob/main/tournament_results.pdf)**
 - Placed in the top 21% of over 300 participants in an Othello tournament using a recursive backtracking algorithm written with C++ while using Vim in a Linux environment.
 - Applied knowledge of tree data structures, recursive algorithms, and Othello game logic to determine the best move to make to defeat my opponents. 
 
